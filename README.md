@@ -1,2 +1,2 @@
-# GPRS
-This code shows the Longitude and Latitude of the user whenever you click on the button/image
+# GPRS Emergency App
+This code send the exact location of the individual once you press the power button twice when the screen is off.
